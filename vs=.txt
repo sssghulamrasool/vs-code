@@ -1,0 +1,89 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 17,
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.fontWeight": "600",
+    "editor.mouseWheelZoom": true,
+    "editor.fontFamily": "Fira Code, SemiBold",
+    "editor.fontLigatures": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeLensFontFamily": "Fira Code, SemiBold",
+    "debug.console.fontFamily": "Fira Code, SemiBold",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-icons",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.formatOnSave": true,
+    "tabnine.experimentalAutoImports": true,
+    "powermode.enabled": true,
+    "powermode.combo.counterSize": 0,
+    "powermode.combo.timeout": 0,
+    "powermode.shake.intensity": 0,
+    "powermode.combo.timerEnabled": "show",
+    "powermode.presets": "flames",
+    "git.suggestSmartCommit": false,
+    "git.openRepositoryInParentFolders": "never",
+    "color-highlight.enable": false,
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSurroundingLines": 1,
+    "editor.cursorWidth": 2,
+    "diffEditor.wordWrap": "on",
+    "editor.minimap.maxColumn": 150,
+    "editor.quickSuggestionsDelay": 2,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.env.windows": {},
+    "workbench.editorAssociations": {
+        "*.jsx": "default"
+    },
+    "workbench.preferredHighContrastColorTheme": "GitHub Dark Colorblind (Beta)",
+    "workbench.preferredHighContrastLightColorTheme": "GitHub Light Colorblind (Beta)",
+    "workbench.preferredLightColorTheme": "GitHub Light Colorblind (Beta)",
+    "powermode.explosions.customExplosions": [],
+    "workbench.colorCustomizations": {
+        "panel.background": "#000000c2",
+        "editor.background": "#000000c2",
+        "sideBar.background": "#000000",
+        "terminal.background": "#000000c2",
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.fontVariations": false,
+    "window.zoomLevel": 1,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "Fira Code, SemiBold",
+    "terminal.integrated.fontWeight": "600",
+    "cSpell.ignoreWords": [
+        "Lucide"
+    ],
+    "cSpell.userWords": [
+        "Iconify"
+    ],
+}
